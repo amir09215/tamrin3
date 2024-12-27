@@ -8,7 +8,7 @@ namespace tamrin3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("amir");
-            Console.WriteLine("ali");
+            Console.WriteLine("mohammad");
         }
     }
 }
